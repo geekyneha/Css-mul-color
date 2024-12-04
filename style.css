@@ -1,0 +1,5 @@
+.box{
+    width: 400px;
+    height: 400px;
+    background: conic-gradient(green 0deg, green 45deg, black 45deg, black 135deg, red 135deg, red 225deg,purple 225deg, purple 315deg,green 315deg ,green 360deg);
+}
